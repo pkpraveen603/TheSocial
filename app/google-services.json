@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318777361356",
+    "firebase_url": "https://thesocialapp-4a771.firebaseio.com",
+    "project_id": "thesocialapp-4a771",
+    "storage_bucket": "thesocialapp-4a771.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318777361356:android:b40d9862b8391335ef5369",
+        "android_client_info": {
+          "package_name": "com.example.thesocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318777361356-ejmgc2644o2gq75gu6m7cp65a685llkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC_rAn2ib7yfFQtRf-7iFrMOzR_6mb990"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318777361356-ejmgc2644o2gq75gu6m7cp65a685llkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
